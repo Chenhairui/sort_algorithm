@@ -1,3 +1,9 @@
+/**
+ * popsrot.c   :   the pop sort algorithm C language describe
+ * Revision : R0.1
+ * Author : Chenhairui
+ * Date : 2020.5.23
+ */
 #include <stdio.h>
 #include <stdlib.h>
 
